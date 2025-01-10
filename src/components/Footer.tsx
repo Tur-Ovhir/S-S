@@ -7,17 +7,10 @@ export const Footer = () => {
         <Container background="bg-[#EEEFFB]">
             <div className="grid grid-cols-4 pt-24 pb-36 ">
                 <div className="col-span-2 space-y-6">
-                    <h1 className="text-3xl font-extrabold">eCommerce</h1>
-                    <div className="w-80 relative">
-                        <Input placeholder="Имэйл хаяг" className="bg-white" />
-                        <div style={{ height: 'calc(100% - 4px)' }} className="absolute flex items-center justify-center top-0 right-0 w-32 m-[2px] rounded-md text-white bg-buttonP">
-                            Бүртгүүлэх
-                        </div>
-                    </div>
+                    <h1 className="text-3xl font-extrabold">S&S shop</h1>
                     <div className="max-w-[484px] space-y-2 text-[#8A8FB9]">
                         <p>Хаяг</p>
-                        <p>Олимпын гудамж, 1-р хороо, Сүхбаатар дүүрэг, Улаанбаатар хот,
-                            Гурван гол - 401 тоот</p>
+                        <p>Ховд аймаг Эвийн хүч худалпааны төв 1 давхар A-24 тоот</p>
                     </div>
                 </div>
                 <div>

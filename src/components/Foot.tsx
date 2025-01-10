@@ -7,17 +7,11 @@ export const Foot = () => {
         <Container background="bg-[#E7E4F8]">
             <div className="flex justify-between px-8 py-4 max-w-screen-lg">
                 <div className="text-[#9DA0AE]">
-                    &copy;ecommerce
+                    &copy;S&S shop
                 </div>
                 <div className="flex gap-2">
                     <div className="bg-textB hover:bg-buttonP hover:scale-125 duration-300 text-white p-[6px] rounded-full">
-                        <Link href="/"><FaFacebookF className="w-3 h-3" /></Link>
-                    </div>
-                    <div className="bg-textB hover:bg-buttonP hover:scale-125 duration-300 text-white p-[6px] rounded-full">
-                        <Link href="/"><AiFillInstagram className="w-3 h-3" /></Link>
-                    </div>
-                    <div className="bg-textB hover:bg-buttonP hover:scale-125 duration-300 text-white p-[6px] rounded-full">
-                        <Link href="/"><FaTwitter className="w-3 h-3" /></Link>
+                        <Link href="/https://www.facebook.com/groups/422671690827432"><FaFacebookF className="w-3 h-3" /></Link>
                     </div>
                 </div>
             </div>
