@@ -11,11 +11,11 @@ const productsData: productsData[] = [
   {
     id: 1,
     name: "Canon EOS 1500D",
-    title: "Canon камер",
+    title: "Подволк ",
     price: 750000,
     colors: ["#000000", "#A6A6A6"],
     images: [
-      "https://res.cloudinary.com/dqhguhv7o/image/upload/v1725350095/cam_3_szx5lr.png",
+      "https://res.cloudinary.com/dykm0aphm/image/upload/v1736481828/c9d03b7d-a8a3-4090-9043-1dd75a3ef0e4_no7grf.jpg",
     ],
   },
   {
@@ -89,7 +89,6 @@ const productsData: productsData[] = [
     ],
   },
 ];
-
 export const AddedProducts = () => {
   return (
     <Container background="bg-white">

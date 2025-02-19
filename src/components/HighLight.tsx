@@ -12,7 +12,7 @@ const productsData: productsData[] = [
   {
     id: 9,
     name: "Single Blazer",
-    title: "Дан хүрэм пиджак",
+    title: "Өргөн хар өмд",
     price: 220000,
     images: [
       "https://res.cloudinary.com/dykm0aphm/image/upload/v1736481827/9a024c01-1dd8-44e4-bc69-5bc46d234f88_pvgwhv.jpg",
@@ -21,7 +21,7 @@ const productsData: productsData[] = [
   {
     id: 10,
     name: "Desk Lamp",
-    title: "Ширээний чийдэн",
+    title: "сороочикон цамц",
     price: 60000,
     images: [
       "https://res.cloudinary.com/dykm0aphm/image/upload/v1736481827/9c82edd3-417c-46fa-a11c-b2e1116d43b7_zykwxo.jpg",
@@ -30,7 +30,7 @@ const productsData: productsData[] = [
   {
     id: 11,
     name: "Outer Jacket",
-    title: "Гадуур хүрэм",
+    title: "Зузаан дотуур өмд",
     price: 280000,
     images: [
       "https://res.cloudinary.com/dykm0aphm/image/upload/v1736481828/19a9a03f-9639-4ee1-b7b5-88d2149e5aae_hf69ge.jpg",
@@ -39,7 +39,7 @@ const productsData: productsData[] = [
   {
     id: 12,
     name: "Noise Cancelling Headphones",
-    title: "Дуу намсгагчтай чихэвч",
+    title: "Бүстэй цэнхэр плаж",
     price: 550000,
     images: [
       "https://res.cloudinary.com/dykm0aphm/image/upload/v1736481828/4d0d0a49-80fc-4b39-9888-893001fe810a_esmuos.jpg",
